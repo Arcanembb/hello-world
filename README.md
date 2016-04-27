@@ -1,2 +1,3 @@
 # hello-world
 This is just the beginning...
+This is where my journey begins. A journey into the unknown.
